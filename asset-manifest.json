@@ -1,24 +1,30 @@
 {
   "files": {
-    "main.css": "/emailjs/static/css/main.bec536e7.chunk.css",
-    "main.js": "/emailjs/static/js/main.89435b24.chunk.js",
-    "main.js.map": "/emailjs/static/js/main.89435b24.chunk.js.map",
-    "runtime-main.js": "/emailjs/static/js/runtime-main.4c7afef8.js",
-    "runtime-main.js.map": "/emailjs/static/js/runtime-main.4c7afef8.js.map",
-    "static/js/2.78bdcc80.chunk.js": "/emailjs/static/js/2.78bdcc80.chunk.js",
-    "static/js/2.78bdcc80.chunk.js.map": "/emailjs/static/js/2.78bdcc80.chunk.js.map",
-    "static/js/3.a8572fd1.chunk.js": "/emailjs/static/js/3.a8572fd1.chunk.js",
-    "static/js/3.a8572fd1.chunk.js.map": "/emailjs/static/js/3.a8572fd1.chunk.js.map",
+    "main.css": "/emailjs/static/css/main.9485b9ba.chunk.css",
+    "main.js": "/emailjs/static/js/main.afd2c20f.chunk.js",
+    "main.js.map": "/emailjs/static/js/main.afd2c20f.chunk.js.map",
+    "runtime-main.js": "/emailjs/static/js/runtime-main.4121956f.js",
+    "runtime-main.js.map": "/emailjs/static/js/runtime-main.4121956f.js.map",
+    "static/css/2.8edece0c.chunk.css": "/emailjs/static/css/2.8edece0c.chunk.css",
+    "static/js/2.cf23c011.chunk.js": "/emailjs/static/js/2.cf23c011.chunk.js",
+    "static/js/2.cf23c011.chunk.js.map": "/emailjs/static/js/2.cf23c011.chunk.js.map",
+    "static/js/3.1e42a52e.chunk.js": "/emailjs/static/js/3.1e42a52e.chunk.js",
+    "static/js/3.1e42a52e.chunk.js.map": "/emailjs/static/js/3.1e42a52e.chunk.js.map",
     "index.html": "/emailjs/index.html",
-    "static/css/main.bec536e7.chunk.css.map": "/emailjs/static/css/main.bec536e7.chunk.css.map",
-    "static/js/2.78bdcc80.chunk.js.LICENSE.txt": "/emailjs/static/js/2.78bdcc80.chunk.js.LICENSE.txt",
+    "static/css/2.8edece0c.chunk.css.map": "/emailjs/static/css/2.8edece0c.chunk.css.map",
+    "static/css/main.9485b9ba.chunk.css.map": "/emailjs/static/css/main.9485b9ba.chunk.css.map",
+    "static/js/2.cf23c011.chunk.js.LICENSE.txt": "/emailjs/static/js/2.cf23c011.chunk.js.LICENSE.txt",
     "static/media/abc.dc8de8dc.ico": "/emailjs/static/media/abc.dc8de8dc.ico",
-    "static/media/App.css": "/emailjs/static/media/foot-blue.fbc13eaa.png"
+    "static/media/close-up-womam.82057a52.jpg": "/emailjs/static/media/close-up-womam.82057a52.jpg",
+    "static/media/close-up-womam3.f268dffc.jpg": "/emailjs/static/media/close-up-womam3.f268dffc.jpg",
+    "static/media/App.css": "/emailjs/static/media/foot-blue.fbc13eaa.png",
+    "static/media/slick-theme.css": "/emailjs/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.4c7afef8.js",
-    "static/js/2.78bdcc80.chunk.js",
-    "static/css/main.bec536e7.chunk.css",
-    "static/js/main.89435b24.chunk.js"
+    "static/js/runtime-main.4121956f.js",
+    "static/css/2.8edece0c.chunk.css",
+    "static/js/2.cf23c011.chunk.js",
+    "static/css/main.9485b9ba.chunk.css",
+    "static/js/main.afd2c20f.chunk.js"
   ]
 }
